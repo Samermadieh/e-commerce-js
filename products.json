@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Nike Air VaporMax 3 USA",
+        "price": 200,
+        "image": { "fields": { "file": { "url": "images/product-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Nike React Presto",
+        "price": 130,
+        "image": { "fields": { "file": { "url": "images/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Nike Air Max 90",
+        "price": 120,
+        "image": { "fields": { "file": { "url": "images/product-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Nike Air Max 2090",
+        "price": 150,
+        "image": { "fields": { "file": { "url": "images/product-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Nike Air Tailwind 79",
+        "price": 90,
+        "image": { "fields": { "file": { "url": "images/product-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Nike Air Force 1 '07",
+        "price": 90,
+        "image": { "fields": { "file": { "url": "images/product-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Nike Air Max 270",
+        "price": 150,
+        "image": { "fields": { "file": { "url": "images/product-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Nike React Infinity Run",
+        "price": 160,
+        "image": { "fields": { "file": { "url": "images/product-8.jpg" } } }
+      }
+    }
+  ]
+}
